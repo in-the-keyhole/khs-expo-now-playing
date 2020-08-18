@@ -1,6 +1,13 @@
 # khs-expo-now-playing
 
-# Installation
+## Installation
+
+Prerequisite: Node.js and Expo need to be installed...
+
+for expo:
 npm install expo-cli --global
-npm install
-npm start
+
+
+1. Clone project
+2. npm install
+3. npm start 
